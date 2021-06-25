@@ -1,0 +1,19 @@
+  body {
+    background-color: #e3fdfd;
+  }
+  hr {
+    border-style: dotted none none ;
+    border-color: grey;
+    border-width:5px;
+    width:10%;
+  }
+h1 {
+  color:powderblue;
+  }
+
+h2 {
+    color:powderblue;
+    }
+h3 {
+    color:powderblue;
+      }
